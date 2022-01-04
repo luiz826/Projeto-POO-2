@@ -1,0 +1,14 @@
+charmander     ,78 ,26 ,22 ,33 ,fire      ,grass     ,water
+squirtle       ,88 ,24 ,33 ,22 ,water     ,fire      ,grass 
+bulbassaur     ,90 ,25 ,25 ,23 ,grass     ,water     ,fire
+pikachu        ,70 ,28 ,20 ,45 ,eletric   ,water     ,ground
+mankey         ,80 ,40 ,35 ,18 ,fight     ,normal    ,fly
+pidgey         ,80 ,23 ,20 ,23 ,fly       ,fight     ,eletric
+geodude        ,80 ,40 ,50 ,10 ,ground    ,eletric   ,water
+caterpie       ,90 ,15 ,18 ,23 ,bug       ,psychic   ,fire
+rattata        ,60 ,28 ,18 ,36 ,normal    ,none      ,fight
+grimer         ,160,40 ,25 ,13 ,poison    ,grass     ,ground
+magnemite      ,50 ,18 ,35 ,23 ,steel     ,ice       ,fire
+jynx           ,130,24 ,33 ,48 ,ice       ,grass     ,fire
+arceus         ,120,120,120,120,normal    ,none      ,fight
+missigno       ,10 ,10 ,10 ,10 ,unknown   ,unknown   ,unknown

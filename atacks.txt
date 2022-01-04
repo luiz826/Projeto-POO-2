@@ -1,0 +1,17 @@
+tackle         ,normal    ,40
+ember          ,fire      ,40
+water_gun      ,water     ,40
+vine_whip      ,grass     ,40
+thunderbolt    ,eletric   ,90
+rolling_kick   ,fight     ,60
+gust           ,fly       ,40
+rock_smash     ,ground    ,40
+bug_buzz       ,bug       ,90
+headbutt       ,normal    ,70
+acid           ,poison    ,40
+iron_head      ,steel     ,80
+aurora_beam    ,ice       ,65
+judgement      ,normal    ,100
+psi            ,normal    ,99
+
+
